@@ -1,0 +1,18 @@
+{
+	"gantry_z_clearance": 25,
+	"head_x_min": 33,
+	"head_x_max": 26,
+	"head_y_min": 33,
+	"head_y_max": 40,
+	"gantry_head_y_offset": 10,
+	"nozzle_outer_diameter": 8,
+	"head_z_clearance": 3.5,
+	"xy_air_gap": 2,
+	"bed_x_min": 12,
+	"bed_x_max": 225,
+	"bed_y_min": 15,
+	"bed_y_max": 225,
+	"bed_z_max": 210,
+	"iteration_step": 1,
+	"remove_commands_starting": ["G28", "M140 S0", "M104 S0", "M300"]
+}
