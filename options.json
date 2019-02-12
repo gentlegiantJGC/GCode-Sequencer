@@ -7,7 +7,7 @@
 	"gantry_head_y_offset": 10,
 	"nozzle_outer_diameter": 8,
 	"head_z_clearance": 3.5,
-	"xy_air_gap": 2,
+	"xy_air_gap": 5,
 	"bed_x_min": 12,
 	"bed_x_max": 225,
 	"bed_y_min": 15,
