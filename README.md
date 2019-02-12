@@ -7,6 +7,10 @@ This code has been designed with the Creatlity Ender 3 in mind since it is what 
 
 **IMPORTANT** : Once the program has created the output run it through a gcode viewer to make sure that everything is correct. While I am fairly confident the script should not cause the printer to crash into anything it is down to you to be certain before you run it on your machine. You are responsible for any code you upload to your printer.
 
+![towers, cubes and plates example](photos/towers_blocks_tiles.png?raw=true)
+
+![printed spyglass example](photos/printed_spyglass.jpg?raw=true)
+
 # Limitations
 The script is limited to the linear G0 and G1 commands. If there are any other movement commands present it should print a message in the console. (I believe most slicers just use linear movement but make sure).
 
